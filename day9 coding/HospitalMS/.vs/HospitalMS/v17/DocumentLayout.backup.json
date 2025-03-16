@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|d:\\wipro project\\demo project phase 2\\day9 coding\\hospitalms\\hospitalms\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|solutionrelative:hospitalms\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|d:\\wipro project\\demo project phase 2\\day9 coding\\hospitalms\\hospitalms\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|solutionrelative:hospitalms\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|d:\\wipro project\\demo project phase 2\\day9 coding\\hospitalms\\hospitalms\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|solutionrelative:hospitalms\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|d:\\wipro project\\demo project phase 2\\day9 coding\\hospitalms\\hospitalms\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|solutionrelative:hospitalms\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|d:\\wipro project\\demo project phase 2\\day9 coding\\hospitalms\\hospitalms\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|solutionrelative:hospitalms\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|d:\\wipro project\\demo project phase 2\\day9 coding\\hospitalms\\hospitalms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|solutionrelative:hospitalms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|d:\\wipro project\\demo project phase 2\\day9 coding\\hospitalms\\hospitalms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|solutionrelative:hospitalms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|d:\\wipro project\\demo project phase 2\\day9 coding\\hospitalms\\hospitalms\\hospitalms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0626079E-545B-4A6A-82A5-EDFC402CB40D}|HospitalMS\\HospitalMS.csproj|solutionrelative:hospitalms\\hospitalms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HospitalMS\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Controllers\\PatientsController.cs*",
+              "RelativeToolTip": "HospitalMS\\Controllers\\PatientsController.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:39:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalMS\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalMS\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:39:09.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalMS\\appsettings.json",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\appsettings.json",
+              "RelativeToolTip": "HospitalMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T04:44:54.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalMS\\Program.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Program.cs",
+              "RelativeToolTip": "HospitalMS\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:41:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalMS\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "HospitalMS\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:40:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalMS\\Models\\Patient.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalMS\\Models\\Patient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:40:17.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalMS\\Models\\Doctor.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalMS\\Models\\Doctor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:40:15.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HospitalMS.csproj",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\HospitalMS.csproj",
+              "RelativeDocumentMoniker": "HospitalMS\\HospitalMS.csproj",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day9 coding\\HospitalMS\\HospitalMS\\HospitalMS.csproj",
+              "RelativeToolTip": "HospitalMS\\HospitalMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T04:40:13.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
