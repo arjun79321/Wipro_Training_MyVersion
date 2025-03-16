@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|d:\\wipro project\\demo project phase 2\\day7 coding\\restaurantms\\restaurantms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EFF4E6B-BD51-4B10-B0F8-6E903B0341DF}|RestaurantMS\\RestaurantMS.csproj|solutionrelative:restaurantms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "RestaurantMS\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwIoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:30:05.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Models\\Orders.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Orders.cs",
+              "RelativeToolTip": "RestaurantMS\\Models\\Orders.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:24:31.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Models\\Wallet.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Wallet.cs",
+              "RelativeToolTip": "RestaurantMS\\Models\\Wallet.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:44:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Models\\Customer.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Customer.cs",
+              "RelativeToolTip": "RestaurantMS\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:44:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VendorsController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\VendorsController.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Controllers\\VendorsController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\VendorsController.cs",
+              "RelativeToolTip": "RestaurantMS\\Controllers\\VendorsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:13:27.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Controllers\\MenusController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "RestaurantMS\\Controllers\\MenusController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:10:29.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Program.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Program.cs",
+              "RelativeToolTip": "RestaurantMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:05:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Models\\Menu.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Menu.cs",
+              "RelativeToolTip": "RestaurantMS\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:45:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RestaurantMS\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:50:09.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Models\\Vendor.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Models\\Vendor.cs",
+              "RelativeToolTip": "RestaurantMS\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:46:21.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "RestaurantMS\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:36:08.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "RestaurantMS\\Controllers\\WalletsController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "RestaurantMS\\Controllers\\WalletsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:37:37.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantMS\\appsettings.json",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day7 coding\\RestaurantMS\\RestaurantMS\\appsettings.json",
+              "RelativeToolTip": "RestaurantMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T07:02:44.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

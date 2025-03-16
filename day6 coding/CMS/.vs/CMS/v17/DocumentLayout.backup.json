@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|d:\\wipro project\\demo project phase 2\\day6 coding\\cms\\cms\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|solutionrelative:cms\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|d:\\wipro project\\demo project phase 2\\day6 coding\\cms\\cms\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|d:\\wipro project\\demo project phase 2\\day6 coding\\cms\\cms\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|solutionrelative:cms\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|d:\\wipro project\\demo project phase 2\\day6 coding\\cms\\cms\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|solutionrelative:cms\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|d:\\wipro project\\demo project phase 2\\day6 coding\\cms\\cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|solutionrelative:cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|d:\\wipro project\\demo project phase 2\\day6 coding\\cms\\cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C4CF58D-9170-407B-B0F7-F161B10C6225}|CMS\\CMS.csproj|solutionrelative:cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\Wallet.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Models\\Wallet.cs",
+              "RelativeToolTip": "CMS\\Models\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:10:45.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwIAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:51:11.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Program.cs",
+              "RelativeDocumentMoniker": "CMS\\Program.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Program.cs",
+              "RelativeToolTip": "CMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:45:40.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CMS\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:44:49.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\Customer.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\Models\\Customer.cs",
+              "RelativeToolTip": "CMS\\Models\\Customer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:43:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\appsettings.json",
+              "RelativeDocumentMoniker": "CMS\\appsettings.json",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day6 coding\\CMS\\CMS\\appsettings.json",
+              "RelativeToolTip": "CMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T10:48:21.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

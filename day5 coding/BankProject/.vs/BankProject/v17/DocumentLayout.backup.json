@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|d:\\wipro project\\demo project phase 2\\day5 coding\\bankproject\\bankproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|d:\\wipro project\\demo project phase 2\\day5 coding\\bankproject\\bankproject\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|d:\\wipro project\\demo project phase 2\\day5 coding\\bankproject\\bankproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|d:\\wipro project\\demo project phase 2\\day5 coding\\bankproject\\bankproject\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|d:\\wipro project\\demo project phase 2\\day5 coding\\bankproject\\bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|d:\\wipro project\\demo project phase 2\\day5 coding\\bankproject\\bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|d:\\wipro project\\demo project phase 2\\day5 coding\\bankproject\\bankproject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BFA68F-6D34-4D2D-9AFC-D42854C59F1D}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\Users.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Models\\Users.cs*",
+              "RelativeToolTip": "BankProject\\Models\\Users.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:39:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trans.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Models\\Trans.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\Trans.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Models\\Trans.cs",
+              "RelativeToolTip": "BankProject\\Models\\Trans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:57:31.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankProject\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Controllers\\AccountsController.cs*",
+              "RelativeToolTip": "BankProject\\Controllers\\AccountsController.cs*",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:23:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BankProject\\appsettings.json",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\appsettings.json",
+              "RelativeToolTip": "BankProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T06:54:01.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Models\\EFCoreDbContext.cs*",
+              "RelativeToolTip": "BankProject\\Models\\EFCoreDbContext.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:50:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Program.cs",
+              "RelativeDocumentMoniker": "BankProject\\Program.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Program.cs",
+              "RelativeToolTip": "BankProject\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:57:37.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\Account.cs",
+              "ToolTip": "D:\\wipro project\\demo project phase 2\\day5 coding\\BankProject\\BankProject\\Models\\Account.cs",
+              "RelativeToolTip": "BankProject\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:49:54.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
